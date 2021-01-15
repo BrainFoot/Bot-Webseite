@@ -15,8 +15,7 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- HTML lol
 
 ## Author
 
